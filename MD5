@@ -1,4 +1,4 @@
-3eaeeced250493f2fc856403d4bae6b3 *DESCRIPTION
+c914cf758b38187829d059b5ad45ec22 *DESCRIPTION
 02d3e578f8e09a6cbd689c37d4edc30a *LICENSE
 3c3e20c378aceee15665dcb60c596009 *NAMESPACE
 38de43689fec250537641d5511be7ad8 *R/CatalogNode.R
@@ -7,16 +7,16 @@ a3dd4b3f9edcac52cca9ecc38696ee12 *R/ServiceNode.R
 82901bee2ba4a3804d15eb5768544108 *R/ThreddsNode.R
 95f2918ab1cd0e33d295815b791d8c2c *R/misc.R
 7a0e09a241d54f186e5d931317450c8e *R/thredds-package.R
-4b9033ccfc83013e0a1b3c59929ac41f *README.md
+95aceb4bfad7a4610d5f44301f70c0aa *README.md
 98d3c5668f782706a497253ad611d326 *inst/daymet.R
 3f8d4d48a71b37ccc129d0af5ab21257 *inst/gomofs.R
 89db5a8928aa04b032ee6563c41c770f *inst/mur.R
 d3230001da5a9cf488c15ea963a45e9c *inst/obpg.R
 8b6987bfc25c35bb2e77c1056e1fb989 *inst/pacioos.R
-106da8c97d60467c454b40fdbf69c674 *man/CatalogNode.Rd
-27fb957e850e483435143432c3b771fd *man/DatasetNode.Rd
-40aca9f9bbfb8fb6848dd0dab73907fa *man/ServiceNode.Rd
-68641c6837d04734c5ddaa791f87dbaa *man/ThreddsNode.Rd
+8f83c5fc030c9da9ffcf44df8b22c6a0 *man/CatalogNode.Rd
+9075d3f16a2b835716d6f6286b3580ed *man/DatasetNode.Rd
+36b7dee9b49be7e19439da66fb6a5702 *man/ServiceNode.Rd
+8c7a04f6c2cca41ff5141c59bae3f84b *man/ThreddsNode.Rd
 27929a88fa2b96e7768a86e253fe12c8 *man/build_xpath.Rd
 cb19eccf6241b321c2ccb5c01f08388c *man/get_catalog.Rd
 c8ceb9d3ac5d3f4d99ba696a0e162fd5 *man/get_xml_ns.Rd
