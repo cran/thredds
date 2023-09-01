@@ -1,4 +1,4 @@
-7b228854d964b17d46a069c5705cc701 *DESCRIPTION
+1b0d030e62d1342b8115184b0c1e0a54 *DESCRIPTION
 02d3e578f8e09a6cbd689c37d4edc30a *LICENSE
 3c3e20c378aceee15665dcb60c596009 *NAMESPACE
 aeddee2c73f8e9c571d049983f28675e *R/CatalogNode.R
@@ -6,7 +6,7 @@ aeddee2c73f8e9c571d049983f28675e *R/CatalogNode.R
 a3dd4b3f9edcac52cca9ecc38696ee12 *R/ServiceNode.R
 82901bee2ba4a3804d15eb5768544108 *R/ThreddsNode.R
 95f2918ab1cd0e33d295815b791d8c2c *R/misc.R
-7a0e09a241d54f186e5d931317450c8e *R/thredds-package.R
+b98fc53649521e88cc71ce2cb0b88213 *R/thredds-package.R
 52e7d2f9a74a57f25be618ade15d48cb *README.md
 98d3c5668f782706a497253ad611d326 *inst/daymet.R
 3f8d4d48a71b37ccc129d0af5ab21257 *inst/gomofs.R
@@ -23,7 +23,7 @@ c8ceb9d3ac5d3f4d99ba696a0e162fd5 *man/get_xml_ns.Rd
 e839ae5e3c733b24c540c40f2b78589c *man/grepl_it.Rd
 2563e7de879c0df20355f2fccf78c3ed *man/is_xmlNode.Rd
 e79e2ccebde9345efcb491cc6bade9db *man/parse_node.Rd
-d4f958ca14f22d2410c5bad8a6e780e5 *man/thredds.Rd
+8d02887de15313581cc7c1fdd086de27 *man/thredds.Rd
 ee48409b416269377945147bb0f4687a *man/xmlString.Rd
 b77afb05600db1e153ed672f2f437250 *man/xml_children_names.Rd
 379ad5f1c4bb32c23b13c2d5984bfd54 *man/xml_id.Rd
